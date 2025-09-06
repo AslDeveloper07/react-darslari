@@ -1,9 +1,12 @@
-import UseStateProject from "./Lesson/UseStateProject";
+import React from 'react'
+import UseStateProject from './Lesson/UseStateProject'
 
 const App = () => {
-  <div>
- <UseStateProject/>
-  </div>;
-};
+  return (
+    <div>
+      <UseStateProject/>
+    </div>
+  )
+}
 
-export default App;
+export default App
