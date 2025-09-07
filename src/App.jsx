@@ -1,10 +1,10 @@
 import React from 'react'
-import UseStateProject from './Lesson/UseStateProject'
+import ChangeName from './Lesson/ChangeName'
 
 const App = () => {
   return (
     <div>
-      <UseStateProject/>
+      <ChangeName/>
     </div>
   )
 }
