@@ -1,10 +1,10 @@
 import React from 'react'
-import ChangeName from './Lesson/ChangeName'
+import BreadCrumbs from './Lesson/BreadCrumps'
 
 const App = () => {
   return (
     <div>
-      <ChangeName/>
+      <BreadCrumbs/>
     </div>
   )
 }
